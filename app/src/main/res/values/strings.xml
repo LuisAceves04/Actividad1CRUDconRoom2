@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Actividad 1 CRUD con Room</string>
+    <string name="tv_titulo_de_tarea">Título de tarea</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="tv_pendiente">Pendiente</string>
+    <string name="tv_descripcion_de_la_tarea">Descripción de la tarea...</string>
+    <string name="tv_date">01/01/2024 10:00</string>
+    <string name="tv_task_manager">Task Manager</string>
+    <string name="btn_agregar_tarea">Agregar tarea</string>
+    <string name="hint_titulo">Titulo</string>
+    <string name="hint_descripcion">Descripcion</string>
+    <string name="checkB_completado">Completado</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_editar">Editar</string>
+</resources>
