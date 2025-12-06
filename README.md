@@ -1,4 +1,4 @@
-#elaborado por Aceves Sanchez Luis Rafael
+# elaborado por Aceves Sanchez Luis Rafael
 # Task Manager - CRUD con Room
 Una aplicación Android para gestionar tareas, desarrollada con Java y Room Database. Permite crear, leer, actualizar y eliminar tareas de manera eficiente.
 
